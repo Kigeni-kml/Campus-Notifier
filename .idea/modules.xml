@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/campus-notifier.iml" filepath="$PROJECT_DIR$/.idea/campus-notifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/django-project.iml" filepath="$PROJECT_DIR$/.idea/django-project.iml" />
     </modules>
   </component>

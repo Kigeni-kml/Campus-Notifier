@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it80361-interactive-web-development-cn-d01-home-page-kigeni-kml" vcs="Git" />
   </component>
 </project>
